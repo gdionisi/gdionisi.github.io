@@ -15,7 +15,7 @@
 	<link rel="icon" href="/wp-content/uploads/2017/10/large-logo-MGC.png" sizes="32x32" />
 <link rel="icon" href="/wp-content/uploads/2017/10/large-logo-MGC.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="/wp-content/uploads/2017/10/large-logo-MGC.png" />
-<meta name="msapplication-TileImage" content="http://localhost:8888/mgc_front_page/wp-content/uploads/2017/10/large-logo-MGC.png" />
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2017/10/large-logo-MGC.png" />
 	</head>
 	<body class="login login-action-login wp-core-ui  locale-en-us">
 		<div id="login">
@@ -33,7 +33,7 @@
 		<p class="forgetmenot"><label for="rememberme"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> Remember Me</label></p>
 	<p class="submit">
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
-		<input type="hidden" name="redirect_to" value="http://localhost:8888/mgc_front_page/wp-admin/" />
+		<input type="hidden" name="redirect_to" value="/wp-admin/" />
 		<input type="hidden" name="testcookie" value="1" />
 	</p>
 </form>
