@@ -1,4 +1,0 @@
-<!-- Footer -->
-<section id="footer">
-
-	
